@@ -1,0 +1,6 @@
+name: BungeeParties
+main: com.gmail.filoghost.bungeeparties.BungeeParties
+author: filoghost
+version: 1.0
+
+depends: [Yamler, BungeeCommons]
